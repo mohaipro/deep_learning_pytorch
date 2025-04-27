@@ -1,1 +1,3 @@
 Text file for extra details in pytorch projects!
+This is awesome and getting so good 
+I love programming and python so much
